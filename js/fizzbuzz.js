@@ -1,3 +1,5 @@
+'strict mode'
+
 $(document).ready(function() {
 
 	var ul = $('.fizzbuzzit');
