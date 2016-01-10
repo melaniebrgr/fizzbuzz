@@ -1,4 +1,4 @@
-'strict mode'
+'strict mode';
 
 $(document).ready(function() {
 
